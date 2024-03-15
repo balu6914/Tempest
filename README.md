@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # alpha-pro-contracts
 
 Try running some of the following tasks:
@@ -10,3 +11,7 @@ yarn test
 yarn deploy
 ```
 
+=======
+# Tempest
+A liquidity management protocol inspired by Alpha v2 Vaults, now integrated with Ambient Finance for optimized decentralized finance strategies.
+>>>>>>> origin/main
