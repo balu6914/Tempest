@@ -21,4 +21,4 @@ Contribution Guidelines
 We welcome contributions from the community to enhance Tempest. Before contributing, please review our Contribution Guidelines to ensure a smooth collaboration process.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
