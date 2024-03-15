@@ -8,3 +8,4 @@ export declare const MIN_TICK_MOVE = 0;
 export declare const MAX_TWAP_DEVIATION = 100;
 export declare const TWAP_DURATION = 60;
 export declare const ZERO_ADDR = "0x0000000000000000000000000000000000000000";
+

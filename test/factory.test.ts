@@ -166,3 +166,4 @@ describe("Factory", function() {
     ).to.be.revertedWith("twapDuration must be > 0");
   });
 });
+

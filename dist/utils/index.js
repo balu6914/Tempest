@@ -21,3 +21,4 @@ const getMinTick = (tickSpacing) => Math.ceil(-887272 / tickSpacing) * tickSpaci
 exports.getMinTick = getMinTick;
 const getMaxTick = (tickSpacing) => Math.floor(887272 / tickSpacing) * tickSpacing;
 exports.getMaxTick = getMaxTick;
+

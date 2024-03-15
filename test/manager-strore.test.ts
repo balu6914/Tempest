@@ -41,3 +41,4 @@ describe("ManagerStore", function() {
     ).to.be.eq(false);
   });
 });
+

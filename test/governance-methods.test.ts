@@ -272,3 +272,4 @@ describe("Governance Methods", function() {
     await vaultContract.connect(user).collectProtocol(user.address);
   });
 });
+

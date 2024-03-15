@@ -82,3 +82,4 @@ interface IVault {
 
     function pendingManagerFee() external view returns (uint24);
 }
+

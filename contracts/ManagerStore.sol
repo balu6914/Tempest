@@ -90,3 +90,4 @@ contract ManagerStore is Ownable {
         return authorizedManagers;
     }
 }
+

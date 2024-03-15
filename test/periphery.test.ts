@@ -66,3 +66,4 @@ describe("Periphery", function() {
     expect(calculatedTotal1.add(balance1)).to.approximately(total1, 2);
   });
 });
+

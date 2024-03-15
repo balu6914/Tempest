@@ -29,3 +29,4 @@ describe("Invariants", function() {
     expect(total1After).to.be.gt(total1);
   });
 });
+

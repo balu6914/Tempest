@@ -85,3 +85,4 @@ contract AlphaProVaultFactory is CloneFactory {
         _;
     }
 }
+
